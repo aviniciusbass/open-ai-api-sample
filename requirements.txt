@@ -1,0 +1,6 @@
+ipykernel==6.29.5
+matplotlib==3.10.0
+openai==1.63.2
+pandas==2.2.3
+python-dotenv==1.0.1
+yfinance==0.2.54
